@@ -1,0 +1,12 @@
+{
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/Users/jaish/Documents/Codes/Games/Snake-Game",
+      "binaryPath": "/Users/jaish/Documents/Codes/Games/Snake-Game/game",
+      "binaryArgs": []
+    }
+  ],
+  "files.associations": {
+    "deque": "cpp"
+  }
+}
